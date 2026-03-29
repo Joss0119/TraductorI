@@ -1,8 +1,8 @@
 ## INSTALACIÓN
 ```
 git clone  https://github.com/Joss0119/TraductorI
-cd Traductor
-python traductor.py
+cd TraductorI
+python traductorI.py
 ```
 
 
